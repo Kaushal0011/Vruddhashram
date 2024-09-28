@@ -1,4 +1,4 @@
 # vruddhashram
 
-A new Flutter project that maps the functionalities and data from an old-age home website to a mobile application.
+Flutter project that maps the functionalities and data from an old-age home website to a mobile application.
 
